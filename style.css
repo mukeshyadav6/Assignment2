@@ -1,0 +1,18 @@
+.buy {
+    background: url('https://media.istockphoto.com/id/1350560575/photo/pair-of-blue-running-sneakers-on-white-background-isolated.jpg?s=612x612&w=0&k=20&c=A3w_a9q3Gz-tWkQL6K00xu7UHdN5LLZefzPDp-wNkSU=') no-repeat center center/cover;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.feature-icon {
+    font-size: 2rem;
+    color: #007bff;
+}
+.testimonial {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+}
